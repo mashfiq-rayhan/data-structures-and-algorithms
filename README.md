@@ -1,4 +1,4 @@
-<h1 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<h1 style="display: flex; align-items: center; justify-content: center; gap: 10px;" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" alt="Docker Logo" width="70">
   <span style="color:#007acc; font-size:1.5em;">Introduction to Algorithms</span>
 </h1>
