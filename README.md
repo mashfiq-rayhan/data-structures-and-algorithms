@@ -6,7 +6,7 @@
 > **<div align="center"><span style="color:#0f00bd; font-size:1.5rem;">02. Getting Started</span></div>**
 
 #### <span style="color:#78162d; font-size:1.2rem;">2.1 Insertion sort</span>
-```plaintext
+```sh
 INSERTION-SORT(A, n)
 1. for i = 1 to A.length - 1
 2.     key = A[i]
