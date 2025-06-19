@@ -18,6 +18,9 @@ INSERTION-SORT(A, n)
 8.     A[j + 1] = key
 ```
 
+<!-- ![Insertion Sort](images/Figure02.2.PNG) -->
+<img src="images/Figure02.2.PNG" alt="Insertion Sort" style="width:100%;">
+
 ```js
 const A = [9, 8, 7, 6, 5, 4, 3, 2, 1, 0];
 const n = A.length;
