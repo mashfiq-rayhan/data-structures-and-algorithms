@@ -6,6 +6,7 @@
 > **<div align="center"><span style="color:#0f00bd; font-size:1.5rem;">02. Getting Started</span></div>**
 
 #### <span style="color:#78162d; font-size:1.2rem;">2.1 Insertion sort</span>
+
 ```sh
 INSERTION-SORT(A, n)
 1. for i = 1 to A.length - 1
@@ -18,11 +19,8 @@ INSERTION-SORT(A, n)
 8.     A[j + 1] = key
 ```
 
-<!-- ![Insertion Sort](images/Figure02.2.PNG) -->
-<img src="images/Figure02.2.PNG" alt="Insertion Sort" style="width:100%;">
-
 ```js
-const A = [9, 8, 7, 6, 5, 4, 3, 2, 1, 0];
+const A = [5, 2, 4, 6, 1, 3];
 const n = A.length;
 console.log(n);
 
